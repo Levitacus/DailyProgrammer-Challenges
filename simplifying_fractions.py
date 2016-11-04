@@ -2,6 +2,7 @@
 #Levi Sinclair
 #11/3/16
 #Simplifies fractions in the inputs array.
+#277 easy
 
 inputs =["4 8",
 "84 6",
